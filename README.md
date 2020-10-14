@@ -7,8 +7,8 @@
 ### Project
 
 This is my first full stack MERN app :tada:  
-It is a simple expense tracker which allows you to, well, add incomes and expenses, and remove them!  
-The app will keep track of them and sum up the total of the income and expense. It will also give you the global balance.  
+It is a simple expense tracker which allows you to, well, you guessed it, add incomes and expenses, and remove them! :wink:  
+The app will keep track of every item and sum up the total of the income and expense. It will also give you the global balance. :dollar:  
 Everything is stored in MongoDB Atlas through the API which is based on Node & Express.  
 Feel free to leave a comment.  
 Tips and suggestions are more than welcome, the goal is to learn and improve :rocket:
@@ -16,8 +16,8 @@ Tips and suggestions are more than welcome, the goal is to learn and improve :ro
 ### Features
 
 -   Functionnal components using React [hooks](https://reactjs.org/docs/hooks-intro.html) :
-    -   [UseState](https://reactjs.org/docs/hooks-reference.html#usestate)
-    -   [UseEffect](https://reactjs.org/docs/hooks-reference.html#useeffect)
+    -   [useState](https://reactjs.org/docs/hooks-reference.html#usestate)
+    -   [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect)
     -   [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext)
     -   [useReducer](https://reactjs.org/docs/hooks-reference.html#usereducer)
 -   Backend API with Node, Express & MongoDB
