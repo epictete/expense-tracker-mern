@@ -1,6 +1,6 @@
 # MERN Expense Tracker
 
-<p align="center">
+<p align="center" margin-top="30">
   <img width="320" src="mern-logo.png">
 </p>
 
@@ -15,10 +15,16 @@ Tips and suggestions are more than welcome, the goal is to learn and improve :ro
 
 ### Features
 
--   Functionnal components using hooks : UseState, UseEffect, useContext & useReducer
+-   Functionnal components using React [hooks](https://reactjs.org/docs/hooks-intro.html) :
+    -   [UseState](https://reactjs.org/docs/hooks-reference.html#usestate)
+    -   [UseEffect](https://reactjs.org/docs/hooks-reference.html#useeffect)
+    -   [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext)
+    -   [useReducer](https://reactjs.org/docs/hooks-reference.html#usereducer)
 -   Backend API with Node, Express & MongoDB
--   Use of dotenv for environment variables
--   Use of Mongoose for dealing with the database
+-   Use of [dotenv](https://www.npmjs.com/package/dotenv) for environment variables
+-   Use of [Mongoose](https://www.npmjs.com/package/mongoose) as modeling tool for dealing with the database
+-   Use of Express [Routing](https://expressjs.com/en/guide/routing.html) with a controller and a model for scalability
+-   Use of async / await with a try / catch structure to handle promises
 
 ### Link
 
