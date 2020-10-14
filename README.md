@@ -25,6 +25,7 @@ Tips and suggestions are more than welcome, the goal is to learn and improve :ro
 -   Use of [Mongoose](https://www.npmjs.com/package/mongoose) as modeling tool for dealing with the database
 -   Use of Express [Routing](https://expressjs.com/en/guide/routing.html) with a controller and a model for scalability
 -   Use of async / await with a try / catch structure to handle promises
+-   Use of [axios](https://www.npmjs.com/package/axios) to handle API requests
 
 ### Link
 
