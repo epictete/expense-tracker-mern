@@ -20,12 +20,14 @@ Tips and suggestions are more than welcome, the goal is to learn and improve :ro
     -   [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect)
     -   [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext)
     -   [useReducer](https://reactjs.org/docs/hooks-reference.html#usereducer)
--   Backend API with Node, Express & MongoDB
+-   Backend API with [Node.js](https://nodejs.org/en/), [Express](http://expressjs.com/) & [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 -   Use of [dotenv](https://www.npmjs.com/package/dotenv) for environment variables
 -   Use of [Mongoose](https://www.npmjs.com/package/mongoose) as modeling tool for dealing with the database
 -   Use of Express [Routing](https://expressjs.com/en/guide/routing.html) with a controller and a model for scalability
 -   Use of async / await with a try / catch structure to handle promises
 -   Use of [axios](https://www.npmjs.com/package/axios) to handle API requests
+-   Use of [gh-pages](https://www.npmjs.com/package/gh-pages) for publishing on GitHub pages
+-   Hosting on [Heroku](https://www.heroku.com/home)
 
 ### Link
 
