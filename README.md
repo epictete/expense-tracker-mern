@@ -1,4 +1,4 @@
-# MERN Expense Tracker
+# Full Stack MERN Expense Tracker
 
 <p align="center" margin-top="30">
   <img width="320" src="mern-logo.png">
