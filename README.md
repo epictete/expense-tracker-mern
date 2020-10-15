@@ -8,7 +8,7 @@
 
 This is my first full stack MERN app :tada:  
 It is a simple expense tracker which allows you to, well, you guessed it, add incomes and expenses, and remove them! :wink:  
-The app will keep track of every item and sum up the total of the income and expense. It will also give you the global balance. :dollar:  
+The app will keep track of every item and sum up the total of the income and expense. It will also give you the global balance. :moneybag:  
 Everything is stored in MongoDB Atlas through the API which is based on Node.js & Express.  
 Feel free to leave a comment.  
 Tips and suggestions are more than welcome, the goal is to learn and improve :rocket:
